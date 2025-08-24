@@ -1,4 +1,4 @@
-# 📘 Practical-2: Understanding Activity Lifecycle & Simple UI in Android
+# 📘 MAD_24172022034_Practical2:  Understanding Activity Lifecycle & Simple UI in Android
 
 ## 🎯 Objective
 The objective of this practical is to demonstrate how the **Activity Lifecycle** works in Android, along with creating a basic user interface that includes a styled "Hello World" text and lifecycle feedback via Toasts, Logs, and Snackbars.
@@ -49,7 +49,7 @@ Examples of the UI and lifecycle logs:
 
 <p float="left">
   <img src="app/screen.png" alt="Screenshot 1" width="200"/>
-  <img src="app/img.png" alt="Screenshot 2"/>
+  <img src="app/img.png" alt="Screenshot 2" width="800"/>
 </p>  
 
 ---
