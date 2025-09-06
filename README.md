@@ -49,6 +49,7 @@ Examples of the UI and lifecycle logs:
 
 <p float="left">
   <img src="app/screen.png" alt="Screenshot 1" width="200"/>
+  <img src="app/Screenshot_20250906_190431.png" alt="Screenshot 3" width="200"/>
   <img src="app/img.png" alt="Screenshot 2" width="800"/>
 </p>  
 
